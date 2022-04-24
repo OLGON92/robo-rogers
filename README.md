@@ -46,10 +46,14 @@ _Expected Result: ["0", "1", "2", "3", "4", "5", "6"]_
 
 _Describe: roboResponse()_
 
-_Test 2: "It should change any number containg a 3 to the phrase "Won't you be my neighbor?"_
+_Test 2: "It should change any number containing a 3 to the phrase "Won't you be my neighbor?"_
 _Code: createArray("6")_
 _Expected Result: ["0", "1", "2", "Won't you be my neighbor?", "4", "5", "6"]_
 
-_Test 3: "It should change any number containg a 2 to the phrase "boop;" with of course the exception of 3 which will reamin the previous phrase of "Won't you be my neighbor?"_
+_Test 3: "It should change any number containing a 2 to the phrase "boop;" with of course the exception of 3 which will reamin the previous phrase of "Won't you be my neighbor?"_
 _Code: createArray("6")_
 _Expected Result: ["0", "1", "boop", "Won't you be my neighbor?", "4", "5", "6"]_
+
+_Test 4: "It should change any number containing a 1 to the phrase "beep;" except the numbers 2 and 3 which will remain the same phrases from before."_
+_Code: createArray("14")_
+_Expected Result: ["0", "beep", "boop", "Won't you be my neighbor?", "4", "5", "6", "7", "8", "9", "Beep!", "Beep!", "Boop!", "Won't you be my neighbor?", "Beep!"]_
