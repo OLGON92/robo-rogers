@@ -6,7 +6,7 @@ function createArray(input) {
       numberArray.push(i.toString());
     }
     return numberArray;
-  }
+}
   
   
 //User Logic

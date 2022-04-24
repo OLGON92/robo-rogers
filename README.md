@@ -9,6 +9,8 @@
 *_HTML_
 *_CSS_
 *_JQUERY_
+*_JavaScript_
+*_Bootstrap_
 
 ## Description
 
@@ -33,3 +35,11 @@ You are also welcome to make any contributions if you'd like_
 *_MIT_
 
 Copyright (c) _2022_ _Oscar Gonzalez_
+
+## Test Driven Development Notes
+
+_Describe: createArray()
+
+_Test 1: The function should return an array with all values between 0 and the user entered number as strings.
+_Code: createArray("6")
+Expected Result: ["0", "1", "3", "4", "5", "6"]
