@@ -38,8 +38,15 @@ Copyright (c) _2022_ _Oscar Gonzalez_
 
 ## Test Driven Development Notes
 
-_Describe: createArray()
+_Describe: createArray()_
 
-_Test 1: The function should return an array with all values between 0 and the user entered number as strings.
-_Code: createArray("6")
-Expected Result: ["0", "1", "3", "4", "5", "6"]
+_Test 1: "The function should return an array with all values between 0 and the user entered number as strings."_
+_Code: createArray("6")_
+_Expected Result: ["0", "1", "2", "3", "4", "5", "6"]_
+
+_Describe: roboResponse()_
+
+_Test 2: "It should change any number containg a 3 to the phrase "Won't you be my neighbor?"_
+_Code: createArray("6")_
+_Expected Result: ["0", "1", "2", "Won't you be my neighbor?", "4", "5", "6"]_
+
