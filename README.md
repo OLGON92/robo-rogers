@@ -11,6 +11,7 @@
 *_JQUERY_
 *_JavaScript_
 *_Bootstrap_
+*_Markdown_
 
 ## Description
 
@@ -25,7 +26,7 @@ _This is my third project for Epicodus that is meant to show off my ability to u
 
 ## Known Bugs
 
-* _No known bugs_
+* _No known bugs_ 
 
 ## License
 
