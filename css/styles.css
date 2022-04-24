@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(9, 127, 174);
+}
+
+.btn {
+  background-color: rgb(220, 87, 75);
+}
+
+.btn:hover {
+  background-color: rgb(129, 129, 129);
+}
+
+.btn:active {
+  color: rgb(4, 12, 127);
+}
