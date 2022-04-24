@@ -1,4 +1,4 @@
-# _Mr.Robogers Neighborhood_
+# _Mr.Robogers_
 
 #### By _**Oscar Gonzalez**_
 
@@ -14,14 +14,14 @@
 
 ## Description
 
-_This is my third project for Epicodus that is meant to show off my ability to us Arrays and Looping. The user will enter any number they wish and get a "robot-like" response; what that means is that a number with 1, 2, or 3 will be replaced with a specific phrase, and any number that is not 1, 2, or 3 will remain unchanged. Here is a [link](https://github.com/OLGON92/robo-rogers) to the repository on GitHub._
+_This is my third project for Epicodus that is meant to show off my ability to use Arrays and Looping. The user will enter any number they wish and get a "robot-like" response; what that means is that a number with 1, 2, or 3 will be replaced with a specific phrase, and any number that is not 1, 2, or 3 will remain unchanged. Here is a [link](https://github.com/OLGON92/robo-rogers) to the repository on GitHub._
 
 ## Setup/Installation Requirements
-* This is link for my project on github pages https://olgon92.github.io/language-suggester/
-* _Click link above_
+* _Click link above for the gitHub repository_
+* _Clone the repository_
+* _Save the repository to your computer_
+* _Click the index.html file_
 * _It should open in your preferred web browser_
-* _From there take the quiz_
-* _See your results_
 
 ## Known Bugs
 
